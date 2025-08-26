@@ -14,7 +14,7 @@ SPRAI is a token with a purpose — combining the power of the blockchain with r
 
 🔗 Built on the **BNB Smart Chain (BEP-20)**  
 🔒 Liquidity Locked | ✅ Verified Smart Contract  
-💚 Green by nature, meme by culture.
+💚 Green by nature, driven by purpose.
 
 ---
 
