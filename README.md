@@ -2,7 +2,7 @@
 
 
 
-# 🌱 SPRAI Coin
+# 🌱 SPRAI TOKEN
 
 **The Official Token for a Sustainable and Digital Future.**
 
