@@ -4,7 +4,7 @@
 
 # 🌱 SPRAI Coin
 
-**The Official Meme Coin for a Sustainable and Digital Future.**
+**The Official Token for a Sustainable and Digital Future.**
 
 ---
 
