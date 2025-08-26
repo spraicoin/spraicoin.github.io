@@ -10,7 +10,7 @@
 
 ## 📘 About SPRAI
 
-SPRAI is a meme coin with a purpose — combining the power of the blockchain with real-world impact. We focus on **sustainability, digital education, and environmental protection**, aiming to build a better planet through decentralized finance.
+SPRAI is a token with a purpose — combining the power of the blockchain with real-world impact. We focus on sustainability, digital education, and environmental protection, aiming to build a better planet through decentralized finance.
 
 🔗 Built on the **BNB Smart Chain (BEP-20)**  
 🔒 Liquidity Locked | ✅ Verified Smart Contract  
