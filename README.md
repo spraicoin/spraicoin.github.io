@@ -30,7 +30,7 @@ SPRAI is a token with a purpose — combining the power of the blockchain with r
 
 ## 🛒 How to Buy
 
-- 🥞 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)  
+ 
 - 🔒 [Buy Now via Official Website](https://kalytamykhailo18-cyber.github.io/sprai-presale-page/)
   
   
