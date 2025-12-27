@@ -31,9 +31,9 @@ SPRAI is a token with a purpose — combining the power of the blockchain with r
 ## 🛒 How to Buy
 
 - 🥞 [Buy on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x7C7e518D6d91498BbD850a834e36a96661ac9B1B)  
-- 🔒 [View Liquidity Lock (Mudra)](https://mudra.website/?certificate=yes&type=0&lp=0x98fba4342f42dd1f629908f330ebce1b4f4a51f5)
-- 📈 [View on CoinMarketCap](https://dex.coinmarketcap.com/token/BSC/0x7c7e518d6d91498bbd850a834e36a96661ac9b1b)
-- 📊 [View Price Chart (DexScreener)](https://dexscreener.com/bsc/0x98fba4342f42dd1f629908f330ebce1b4f4a51f5)
+- 🔒 [Buy Now via Official Website](https://kalytamykhailo18-cyber.github.io/sprai-presale-page/)
+  
+  
 ---
 
 ## 🌎 Vision
@@ -57,7 +57,7 @@ We aim to:
 
 ## 📢 Social Media
 
-- 🌐 [Website](https://spraicoin.github.io/) 
+- 🌐 [Website](https://kalytamykhailo18-cyber.github.io/sprai-presale-page/) 
 - 📸 [Instagram](https://instagram.com/sprai.token)
 - 📘 [Facebook](https://facebook.com/spraitoken)
 - 🐦 [Twitter (X)](https://twitter.com/spraitoken)
