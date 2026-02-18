@@ -57,7 +57,7 @@ We aim to:
 
 ## 📢 Social Media
 
-- 🌐 [Website](https://kalytamykhailo18-cyber.github.io/sprai-presale-page/) 
+- 🌐 [Website](https://spraicoin.github.io/) 
 - 📸 [Instagram](https://instagram.com/sprai.token)
 - 📘 [Facebook](https://facebook.com/spraitoken)
 - 🐦 [Twitter (X)](https://twitter.com/spraitoken)
