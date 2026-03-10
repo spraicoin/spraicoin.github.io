@@ -22,7 +22,7 @@ SPRAI is a token with a purpose — combining the power of the blockchain with r
 
 - **Token Name:** SPRAI COIN  
 - **Symbol:** SPRAI  
-- **Contract Address:** `0x55dB643510690CD765A6a780f0365Edf0795129E`  
+- **Contract Address:** `0x8316715180DC1D77146528f5471CE7401231efD4`  
 - **Blockchain:** BNB Smart Chain (BEP-20)  
 - [🔍 View on BscScan](https://bscscan.com/address/0x8316715180DC1D77146528f5471CE7401231efD4)
 
